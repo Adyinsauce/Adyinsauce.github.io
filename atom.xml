@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-04T14:03:48.998Z</updated>
+  <updated>2023-04-04T15:15:49.790Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog finished</title>
+    <link href="http://example.com/2023/04/04/Blog-finished/"/>
+    <id>http://example.com/2023/04/04/Blog-finished/</id>
+    <published>2023-04-04T15:13:44.000Z</published>
+    <updated>2023-04-04T15:15:49.790Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博客部署完毕-✿✿ヽ-°▽°-ノ✿"><a href="#博客部署完毕-✿✿ヽ-°▽°-ノ✿" class="headerlink" title="博客部署完毕  ✿✿ヽ(°▽°)ノ✿"></a>博客部署完毕  ✿✿ヽ(°▽°)ノ✿</h1><p><strong>完美完成博客部署</strong></p><p><strong>开心开心！！！！</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;博客部署完毕-✿✿ヽ-°▽°-ノ✿&quot;&gt;&lt;a href=&quot;#博客部署完毕-✿✿ヽ-°▽°-ノ✿&quot; class=&quot;headerlink&quot; title=&quot;博客部署完毕  ✿✿ヽ(°▽°)ノ✿&quot;&gt;&lt;/a&gt;博客部署完毕  ✿✿ヽ(°▽°)ノ✿&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>My first blog</title>
