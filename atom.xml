@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Life of Ypf</title>
+  
+  <subtitle>Hello friends</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-04-04T14:03:48.998Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Ypf</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My first blog</title>
+    <link href="http://example.com/2023/03/30/My-first-blog/"/>
+    <id>http://example.com/2023/03/30/My-first-blog/</id>
+    <published>2023-03-30T09:10:02.000Z</published>
+    <updated>2023-04-04T14:03:48.998Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Ypf-的第一篇博客"><a href="#Ypf-的第一篇博客" class="headerlink" title="Ypf 的第一篇博客"></a>Ypf 的第一篇博客</h1><p><strong>你好哇！！！</strong></p><p><em>这是我的第一篇博客</em></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">来一段代码</span><br><span class="line">print(&quot;HELLO WORLD!!!&quot;);</span><br></pre></td></tr></table></figure><p>加油！！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Ypf-的第一篇博客&quot;&gt;&lt;a href=&quot;#Ypf-的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;Ypf 的第一篇博客&quot;&gt;&lt;/a&gt;Ypf 的第一篇博客&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;你好哇！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这是我</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
